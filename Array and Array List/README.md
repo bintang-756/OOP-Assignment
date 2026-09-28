@@ -31,31 +31,31 @@ Deposit and withdraw report whether the transaction succeeded. A deposit fails i
 
 Entering the name and initial balance of a new customer.
 
-![Add Account](C1.png)
+![Add Account](img/C1.png)
 
 ### 2. Withdraw
 
 Choosing a customer and withdrawing money from their account.
 
-![Withdraw](C2.png)
+![Withdraw](img/C2.png)
 
 ### 3. Deposit
 
 Choosing a customer and depositing money into their account.
 
-![Deposit](C3.png)
+![Deposit](img/C3.png)
 
 ### 4. Customers List
 
 Viewing all customers with their balances.
 
-![Customers List](C4.png)
+![Customers List](img/C4.png)
 
 ### 4. Customers List
 
 Leaving the program.
 
-![Exit](C0.png)
+![Exit](img/C0.png)
 
 ## How to Run
 
