@@ -1,6 +1,4 @@
-# Abstract Class & Interface (Java)
-
-Studi kasus sederhana: **Toko Musik**.
+# Abstract Class & Interface
 
 ## Struktur
 | File | Keterangan |
